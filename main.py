@@ -1,19 +1,13 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-CISC 435
-Sean Braley, 10026302, 1SB36
+__author__ = 'Sean Braley'
+__copyright__ = "Copyright is held by the author/owner(s)."
 
-Using exerpts from the textbook
-
-Designed on Python 2.7.8
-
-Running instructions:
-    `python main.py`
-    MUST USE CTRL-C to exit
-
-Copyright seanbraley
-
-"""
+__license__ = "MIT"
+__version__ = "1.0.0"
+__maintainer__ = "Sean Braley"
+__email__ = "sean.braley@queensu.ca"
+__status__ = "Prototype"
 
 from socket import AF_INET, SOCK_STREAM
 from socket import socket
